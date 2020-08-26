@@ -1,0 +1,27 @@
+<html>
+<body>
+
+<h1>Ashutosh Joshi</h1>
+<img src=".\ajoshi37-images\profile.jpg" alt="profile picture">
+<br>
+<img src=".\ajoshi37-images\interests.jpg" alt="interests picture">
+<hr>
+<h2> where are you from</h2>
+City: Ajmer
+Country: India 
+<br><br>
+Ajmer is a city in the northern Indian state of Rajasthan.
+Palace built by the Mughal emperor Akbar now houses the Ajmer Government Museum, displaying armor and stone sculptures.
+<h2>Background</h2>
+<hr>
+Engineering(Bachelors in Technology) from Rajasthan Technical University(India) 
+with specfication in Computer Science.
+<br>other technical skills:
+CCNA,Linux, Technology and Cybersecurity.
+<hr>
+<h2>Badges</h2>
+<img src=".\ajoshi37-images\badges.jpg" alt="badges">
+<h2>Additional Info</h2>
+I love to play basketball and like to explore new places from 6 feet away distance.
+</body>
+</html>
