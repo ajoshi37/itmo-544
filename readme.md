@@ -15,8 +15,7 @@ Palace built by the Mughal emperor Akbar now houses the Ajmer Government Museum,
 <h2>Something Interesting about yourself</h2>
 <hr>
 I like to explore new technology and how can i find vulnerability in the new things. If i'm not doing that than i will be outside enjoying life and nature. I also like to explore new places and resturants but from 6 feet apart.
-<h2>
-<br>IT Interest:
+<h2>IT Interest</h2>:
 CCNA,Linux, Networking and specially Cybersecurity.
 <hr>
 <h2>Badges</h2>
