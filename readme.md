@@ -20,7 +20,7 @@ with specfication in Computer Science.
 CCNA,Linux, Technology and Cybersecurity.
 <hr>
 <h2>Badges</h2>
-<img src="/ajoshi37/itmo-544/blob/master/GIT-it%20capture.PNG" alt="badges">
+<img src=https://github.com/ajoshi37/itmo-544/blob/master/GIT-it%20capture.PNG alt="badges">
 <h2>Additional Info</h2>
 I love to play basketball and like to explore new places from 6 feet away distance.
 </body>
