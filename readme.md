@@ -12,16 +12,14 @@ Country: India
 <br><br>
 Ajmer is a city in the northern Indian state of Rajasthan.
 Palace built by the Mughal emperor Akbar now houses the Ajmer Government Museum, displaying armor and stone sculptures. The city is surrounded by the beautiful mountains all around it. 
-<h2>Background</h2>
+<h2>Something Interesting about yourself</h2>
 <hr>
-Engineering(Bachelors in Technology) from Rajasthan Technical University(India) 
-with specfication in Computer Science.
-<br>other technical skills:
-CCNA,Linux, Networking and Cybersecurity.
+I like to explore new technology and how can i find vulnerability in the new things. If i'm not doing that than i will be outside enjoying life and nature. I also like to explore new places and resturants but from 6 feet apart.
+<br>IT Interest:
+CCNA,Linux, Networking and specially Cybersecurity.
 <hr>
 <h2>Badges</h2>
 <img src=https://github.com/ajoshi37/itmo-544/blob/master/GIT-it%20capture.PNG alt="badges">
-<h2>Additional Info</h2>
-I love to play basketball, tennis and like to explore new places from 6 feet away.
+
 </body>
 </html>
