@@ -2,9 +2,9 @@
 <body>
 
 <h1>Ashutosh Joshi</h1>
-<img src="C:\Users\Ash\Desktop\Cloud Computing\itmo-544\profile.jpg" alt="profile picture">
+<img src=https://github.com/ajoshi37/itmo-544/blob/master/profile.jpg alt="profile picture">
 <br>
-<img src="C:\Users\Ash\Desktop\Cloud Computing\itmo-544\interest.jpg" alt="interests picture">
+<img src=https://github.com/ajoshi37/itmo-544/blob/master/interest.jpg alt="interests picture">
 <hr>
 <h2> where are you from</h2>
 City: Ajmer
